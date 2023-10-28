@@ -1,6 +1,6 @@
 {
-  "name": "BongNgoPlugin",
-  "description": "BongNgoPlugin",
+  "name": "TienThanhtivi",
+  "description": "TienThanhtivi",
   "manifestVersion": 25,
   "pluginLists": [
     "https://raw.githubusercontent.com/thanhdienlanh2105/a/main/plugins.json"
